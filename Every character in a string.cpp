@@ -1,3 +1,4 @@
+// this program is to print every character in a string
 #include<iostream>
 #include<cstring>
 using namespace std;
