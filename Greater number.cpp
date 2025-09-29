@@ -1,3 +1,4 @@
+// this program is to find the greater number among the given two numbers
 #inlcude<iostream>
 using namespace std;
 int main()
