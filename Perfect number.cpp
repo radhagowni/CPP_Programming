@@ -1,3 +1,4 @@
+//this program is to find whther given number is perfect number or not
 #include<iostream>
 using namespace std;
 int main()
