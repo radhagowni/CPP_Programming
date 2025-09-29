@@ -7,6 +7,7 @@ int main()
     char str[20];
     cout<<"Enter String:"<<endl;
     cin>>str;
+    cout<<"Characters in the given string:"<<endl;
     for(int i=0;i<strlen(str);i++)
     {
         cout<<str[i]<<endl;
