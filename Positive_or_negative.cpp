@@ -1,3 +1,4 @@
+//this is to find the given number is positive or negative or zero
 #include<iostream>
 using namespace std;
 int main()
