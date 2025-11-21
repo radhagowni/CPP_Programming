@@ -1,5 +1,5 @@
 // this program is to print every character in a string
-#include<iostream>
+#include<iostream> // to include input and output libraries
 #include<cstring>
 using namespace std;
 int main()
