@@ -5,7 +5,7 @@ int main()
 {
     int num;
     cout<<"Enter number: "<<endl;
-    cin>>num;
+    cin>>num; // taking input from user
     int sum=0;
     for(int i=1;i<=num/2;i++)
     {
