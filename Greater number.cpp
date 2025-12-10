@@ -1,5 +1,5 @@
 // this program is to find the greater number among the given two numbers
-#inlcude<iostream>
+#inlcude<iostream> //including all the needed libraries
 using namespace std;
 int main()
 {
