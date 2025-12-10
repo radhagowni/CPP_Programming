@@ -5,7 +5,7 @@ int main()
 {
     int num1,num2;
     cout<<"Enter two numbers:";
-    cin>>num1;
+    cin>>num1; // cin is a function used to take input from user
     cin>>num2;
     if (num1>num2)
     {
