@@ -11,7 +11,7 @@ int main()
    cout<<"Enter float values x and y:"<<endl;
    cin>>x;
    cin >>y;
-   cout<<"The sum of two integer values "<<a<<" and "<<b<<" is "<<a+b<<endl;
-   cout<<"The sum of two float values "<<x<<" and "<<y<<" is "<<x+y;
+   cout<<"The sum of two integer values "<<a<<" and "<<b<<" is "<< a+b <<endl;
+   cout<<"The sum of two float values "<<x<<" and "<<y<<" is "<< x+y;
     return 0;
 }
