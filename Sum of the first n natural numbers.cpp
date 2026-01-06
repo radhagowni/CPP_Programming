@@ -5,7 +5,7 @@ int main()
 {
     int sum=0;
     int num;
-    cout<<"Enter n value:"<<endl;
+    cout<<"Enter n value:"<<endl; // n denotes number upto where we have find sum
     cin>>num;
     for(int i=1;i<=num;i++)
     {
